@@ -6,3 +6,4 @@ If the company had a better understanding of who their potential customers were,
 
 This model will give them a better idea on whether to mail or not.
 
+
