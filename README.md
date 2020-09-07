@@ -5,5 +5,3 @@ Most of it ends up thrown away, not only wasting the money that the company spen
 If the company had a better understanding of who their potential customers were, they would know more accurately who to send it to, so some of this waste and expense could be reduced.
 
 This model will give them a better idea on whether to mail or not.
-
-
